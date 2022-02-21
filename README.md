@@ -1,1 +1,3 @@
 # Azure
+
+az cli commands
