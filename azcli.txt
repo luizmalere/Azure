@@ -1,0 +1,13 @@
+az group
+az vm
+az storage account
+az keyvault
+az webapp
+az sql server
+az cosmosdb
+az find secret
+az find aks
+az network nsg --help
+az webapp --output
+az keyvault --debug
+az interactive
